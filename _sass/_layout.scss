@@ -110,7 +110,18 @@
 .contact-list,
 .social-media-list {
     list-style: none;
-    margin-left: 0;
+    margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.social-media-list > li {
+	float: left;
+}
+
+.social-media-list > li a {
+	display: block;
+	padding: 10px 10px;
 }
 
 .footer-col-wrapper {

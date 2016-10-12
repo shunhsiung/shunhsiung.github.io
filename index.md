@@ -1,16 +1,11 @@
 ---
-layout: page
-title: 中文標題
+layout: default
+title: sshlog
 permalink: /
 ---
-* Item1
-* Item2
-	* item3
 
-```bash
-	yum install postgresql-server
-```
-
-```javascript
-	alert('test');	
-```
+<ul>
+	{% for post in site.posts %}
+	<li><a href='{{post.url}}'>{{ post.title}}</a>
+	{% endfor %}
+</ul>

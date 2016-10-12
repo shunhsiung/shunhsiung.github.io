@@ -9,13 +9,17 @@
 title: sshlog
 email: shunhsiung@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  工作日誌，相關資訊文章。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shunhsiung.github.io" # the base hostname & protocol for your site
+
+
 twitter_username: shunhsiung
 github_username:  shunhsiung
+facebook_fansname:  孟德打副本-1671331789848696
+instagram_username: shunhsiung
 
 # Build settings
 markdown: kramdown
+
+timezone: Asia/Taipei
