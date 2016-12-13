@@ -12,7 +12,7 @@ email: shunhsiung@gmail.com
 description: '工作日誌，相關資訊文章。
 
 '
-baseurl: ''
+baseurl: 
 url: https://shunhsiung.github.io
 twitter_username: shunhsiung
 github_username: shunhsiung
