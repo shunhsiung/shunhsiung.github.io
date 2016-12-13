@@ -1,5 +1,6 @@
 ---
-layout: default
 title: sshlog
-permalink: /
+permalink: "/"
+layout: default
 ---
+

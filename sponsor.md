@@ -1,7 +1,7 @@
 ---
-layout: page
 title: 贊助我
-permalink: /sponsor
+permalink: "/sponsor"
+layout: page
 ---
 
 * 若您覺得我的諮詢有幫助，那就用動力支持我。

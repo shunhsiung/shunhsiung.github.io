@@ -1,7 +1,7 @@
 ---
-layout: default
 title: 感謝您的支持
-permalink: /thankyou
+permalink: "/thankyou"
+layout: default
 ---
 
 * 感謝您的支持。
